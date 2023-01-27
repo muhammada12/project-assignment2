@@ -98,6 +98,21 @@ article{
     color: #787676;
 }
 .section-three{
+    margin-top: 90px;
     display: flex;
     justify-content: space-evenly;
+}
+hr{
+    height: 5px;
+    width: 123px;
+    transform: rotate(90deg);
+    /* color: cadetblue; */
+    border: 2px solid;
+    border-color: salmon;
+    background-color: salmon;
+    border-radius: 10px;
+    margin: 0px;
+    position: relative;
+    top: 66px;
+    left: -73px;
 }
