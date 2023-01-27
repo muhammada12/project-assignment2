@@ -1,4 +1,15 @@
-/* nav styles */
-.color-up{
-    background-color: antiquewhite;
+nav{
+    margin-top: 200px;
+    margin-right: 240px;
+}
+.sction-one, main{
+    background-color: rgb(232, 211, 184);
+    text-align: center;
+}
+button{
+    width: 180px;
+    height: 64px;
+    background-color: rgb(36, 131, 166);
+    border-radius: 6px;
+    font-size: 18px;
 }
