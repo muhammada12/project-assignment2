@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 .section-one{
     background-color: #e3c69f;
     width: 100%;
@@ -153,6 +156,7 @@ SECTION FOUR STYLES
     width: 542px;
     height: 52px;
     padding: 10px;
+    text-align: center;
 }
 /* 
 Section four second division boxes style
