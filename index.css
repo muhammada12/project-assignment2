@@ -234,7 +234,8 @@ Section four second division boxes style
 }
 footer{
     text-align: center;
-    width: 620px;
-    height: 23px;
-
+    background-color: #dad47d;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 246px;
 }
