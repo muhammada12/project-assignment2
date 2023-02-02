@@ -1,6 +1,12 @@
+/* -------------
+BODY STYLES
+----------------- */
 body{
     margin: 0px;
 }
+/* -------------
+SECTION 0NE STYLES
+ ---------------*/
 .section-one{
     background-color: #e3c69f;
     width: 100%;
@@ -32,6 +38,7 @@ button{
 .one-div{
     text-align: -webkit-center;
 }
+/* -----------------SECTION TWO STYLES----------------- */
 .right-text{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
@@ -48,8 +55,6 @@ button{
     align-items: baseline;
     justify-content: space-evenly;
 }
-.section-two{
-}
 .div-left{
     margin-left: 105px;
     margin-top: 81px;
@@ -58,6 +63,9 @@ button{
     row-gap: 12px;
     column-gap: 12px;
 }
+/* ------------------
+SECTION THREE STYLES
+--------------------- */
 .section-three{
     margin-top: 146px;
 }
@@ -232,6 +240,9 @@ Section four second division boxes style
     justify-content: space-evenly;
     align-items: center;
 }
+/* -------------
+footer
+---------------- */
 footer{
     text-align: center;
     background-color: #dad47d;
@@ -239,3 +250,6 @@ footer{
     margin-right: 240px;
     margin-bottom: 246px;
 }
+/*-------
+responsive styles
+------- */
