@@ -130,11 +130,9 @@ SECTION FOUR STYLES
 .four-div{
     box-shadow: 10px 5px 5px rgb(193, 207, 211);
     margin-top: 20px;
-    height: 70%;
-    width: 55%;
-    display: grid;
-    background-color: rgb(229, 235, 240);
-    justify-items: center;
+    display: inline-block;
+    text-align: -webkit-center;
+    margin-left: 470px;
 
 
 }
@@ -144,7 +142,6 @@ SECTION FOUR STYLES
     width: 258px;
     height: 53px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 10px;
 
 }
 .four-text{
@@ -156,7 +153,6 @@ SECTION FOUR STYLES
     width: 542px;
     height: 52px;
     padding: 10px;
-    text-align: center;
 }
 /* 
 Section four second division boxes style
